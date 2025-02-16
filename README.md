@@ -53,5 +53,3 @@ Here's a **3-week deep learning coding practice schedule**, designed to help you
 - **Reading Research Papers**: Stay updated with **latest deep learning advances**.
 
 ---
-
-This schedule ensures **progressive learning** with theory, hands-on coding, and real-world projects. 🚀 Let me know if you want adjustments!
