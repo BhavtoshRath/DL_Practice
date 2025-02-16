@@ -5,15 +5,15 @@ Here's a **3-week deep learning coding practice schedule**, designed to help you
 ### **Week 1: Fundamentals & Basic Implementations**
 **Goal:** Understand deep learning basics and implement simple models.
 
-| **Day** | **Topic** | **Tasks** |
-|---------|-----------|-----------|
-| 1 | Neural Networks Basics | Learn about **perceptrons, activation functions, forward & backward propagation** |
-| 2 | NumPy & PyTorch/TensorFlow Basics | Implement basic tensor operations, gradients, and autograd |
-| 3 | Build a Simple NN from Scratch | Implement a **2-layer neural network** without using deep learning libraries |
-| 4 | Training a Model | Train a **fully connected NN** on **MNIST** (handwritten digits dataset) |
-| 5 | Loss Functions & Optimization | Implement **MSE, Cross-Entropy**, and optimizers like **SGD, Adam** |
-| 6 | Model Evaluation | Learn about **accuracy, precision, recall, F1-score** |
-| 7 | **Mini Project:** Train a Simple Image Classifier | Train a **3-layer NN on MNIST** with PyTorch/TensorFlow |
+| **Day** | **Topic** | **Tasks**                                                                             |
+|---------|-----------|---------------------------------------------------------------------------------------|
+| 1 | Neural Networks Basics | Learn about **~~perceptrons~~, activation functions, forward & backward propagation** |
+| 2 | NumPy & PyTorch/TensorFlow Basics | Implement basic tensor operations, gradients, and autograd                            |
+| 3 | Build a Simple NN from Scratch | Implement a **2-layer neural network** without using deep learning libraries          |
+| 4 | Training a Model | Train a **fully connected NN** on **MNIST** (handwritten digits dataset)              |
+| 5 | Loss Functions & Optimization | Implement **MSE, Cross-Entropy**, and optimizers like **SGD, Adam**                   |
+| 6 | Model Evaluation | Learn about **accuracy, precision, recall, F1-score**                                 |
+| 7 | **Mini Project:** Train a Simple Image Classifier | Train a **3-layer NN on MNIST** with PyTorch/TensorFlow                               |
 
 ---
 
